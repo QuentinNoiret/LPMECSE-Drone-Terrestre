@@ -1,0 +1,7 @@
+﻿  ControlleMannette.cpp
+C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\ControlleMannette\ControlleMannette.cpp(39,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\ControlleMannette\ControlleMannette.cpp(40,6): warning C4101: 'controllerIndex' : variable locale non référencée
+C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\ControlleMannette\ControlleMannette.cpp(176,23): warning C4101: 'state' : variable locale non référencée
+C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\ControlleMannette\ControlleMannette.cpp(637,23): warning C4101: 'unControllerDeviceIndex' : variable locale non référencée
+C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\ControlleMannette\ControlleMannette.cpp(641,22): warning C4101: 'trackedControllerPose' : variable locale non référencée
+  ControlleMannette.vcxproj -> C:\Users\RSAKAL\Desktop\cour\projet drone\TREX_Projet-master\Code Gestion des Manettes + Client TCP\Debug\ControlleMannette.exe
